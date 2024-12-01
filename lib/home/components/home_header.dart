@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_starter_kit/constants.dart';
-import 'package:kinde_flutter_sdk/kinde_api.dart';
+import 'package:kinde_flutter_sdk/kinde_flutter_sdk.dart';
 
 class HomeHeader extends StatelessWidget {
   const HomeHeader(

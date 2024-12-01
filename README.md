@@ -163,6 +163,12 @@ Run the following command to use your application
 flutter run
 ```
 
+### WEB
+add this script to your index.html
+  <script src="https://cdn.jsdelivr.net/npm/@kinde-oss/kinde-auth-pkce-js@4.2.2/dist/kinde-auth-pkce-js.umd.min.js"></script>
+
+
+
 ## Documentation
 
 For details on integrating this SDK into your project, head over to the [Kinde docs](https://kinde.com/docs/) and see the [Flutter SDK](https://kinde.com/docs/developer-tools/flutter-sdk/) doc 👍🏼.
